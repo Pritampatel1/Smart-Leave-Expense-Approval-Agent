@@ -1,0 +1,5 @@
+Submitting an expense claim for a client dinner with the Acme Corp team
+last Thursday. Total amount was $180, category is Client Entertainment,
+project code ACME-2026. Receipt is attached.
+
+- Rahul Verma
